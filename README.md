@@ -1,6 +1,6 @@
 ### Hi there, I'm Jin.
 
-- 🔭 I’m currently working on https://github.com/itsjustjin/Philly_Schools
+- 🔭 I’m currently working on analyzing (Philadelphia School Data)[https://github.com/itsjustjin/Philly_Schools]
 
 
 
