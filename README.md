@@ -1,6 +1,8 @@
-### Hi there, I'm Jin.
+### Hi there, I'm Jin. 
 
-- 🔭 I’m currently working on analyzing [Philadelphia School Data](https://github.com/itsjustjin/Philly_Schools)
+🌱 I'm currently learning R with applications to business analytics and the social sciences. 
+🔭 I’m currently working on analyzing [Philadelphia School Data](https://github.com/itsjustjin/Philly_Schools)
+
 
 
 
